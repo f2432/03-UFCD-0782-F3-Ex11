@@ -1,4 +1,4 @@
-# 03 - UFCD-0782 - F2 - Ex1
+# 03 - UFCD-0782 - F3 - Ex11
 Este exercício deve ser escrito em C.
 
 ### O Exercício
